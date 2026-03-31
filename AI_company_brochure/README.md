@@ -10,8 +10,6 @@ Create a product that builds a Brochure for a company to be used for prospective
 
 We will be provided a company name and their primary website.
 
-See the end of this notebook for examples of real-world business applications.
-
 And remember: I'm always available if you have problems or ideas! Please do reach out.
 
 ## First step: Have GPT-5-nano figure out which links are relevant
@@ -20,7 +18,7 @@ And remember: I'm always available if you have problems or ideas! Please do reac
 It should decide which links are relevant, and replace relative links such as "/about" with "https://company.com/about".  
 We will use "one shot prompting" in which we provide an example of how it should respond in the prompt.
 
-This is an excellent use case for an LLM, because it requires nuanced understanding. Imagine trying to code this without LLMs by parsing and analyzing the webpage - it would be very hard!
+This is an excellent use case for an LLM. Imagine trying to code this without LLMs by parsing and analyzing the webpage - it would be very hard!
 
 
 ## Second step: make the brochure!
