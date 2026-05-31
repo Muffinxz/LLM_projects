@@ -136,6 +136,7 @@ celerybeat.pid
 
 # Environments
 .env
+/Resume_AI/.env
 .envrc
 .venv
 env/
