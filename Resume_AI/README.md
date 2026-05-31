@@ -15,7 +15,7 @@ An intelligent resume chatbot powered by **Ollama ** with a **Gradio** web inter
 
 ## Tech Stack
 
-- **LLM**: Ollama (llama3.2 model)
+- **LLM**: Ollama (qwen2.5:14b model)
 - **Framework**: Gradio (web UI)
 - **SDK**: OpenAI Python Client (configured for local Ollama)
 - **PDF Processing**: PyPDF2
