@@ -1,5 +1,7 @@
 # Resume AI Chatbot
 
+This project was inspired by an AI course project. I rebuilt it independently and modified the model integration, prompting strategy, and implementation details to better understand local LLM workflows and tool calling.
+
 An intelligent resume chatbot powered by **Ollama ** with a **Gradio** web interface. The chatbot answers questions about your resume, intelligently handles unknown questions, and captures user interest with real-time Pushover notifications.
 
 ## Features
